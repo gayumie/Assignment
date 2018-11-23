@@ -1,0 +1,8 @@
+
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(›ç“ë
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(×”¡Î
+]squid:UselessImportCheck"4Remove this unused import 'org.testng.ITestContext'.(¤†ç–üÿÿÿÿ
+psquid:UselessImportCheck"GRemove this unused import 'com.sysco.assignmentGayumie.data.LoginData'.(ÆÁÉışÿÿÿÿ
+ksquid:UselessImportCheck"GRemove this unused import 'com.sysco.assignmentGayumie.utils.TestBase'.(‹„÷ª
+hsquid:UselessImportCheck	"?Remove this unused import 'org.testng.annotations.BeforeClass'.(Ó¨Ş¨ûÿÿÿÿ
+qsquid:UselessImportCheck"HRemove this unused import 'com.sysco.assignmentGayumie.utils.ExcelUtil'.(ü‚…ıÿÿÿÿ
